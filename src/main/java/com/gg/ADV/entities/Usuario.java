@@ -35,7 +35,7 @@ public class Usuario {
 	protected String nombre;
 	protected String apellido;
 	protected String email;
-	protected String telefono;
+	protected Integer telefono;
 	protected String username;
 	protected String password;
 

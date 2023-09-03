@@ -50,5 +50,7 @@ public class Ventas {
 	
 	@Enumerated(EnumType.STRING)
 	protected Unidad unidad;
+	
+	private Usuario usuario;
 		
 }
